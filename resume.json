@@ -207,5 +207,7 @@
       "startDate": "2011-01-01"
     }
   ],
-  "__v": 0
+ "meta": {
+    "theme": "elegant"
+  }
 }
